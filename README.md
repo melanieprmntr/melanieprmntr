@@ -10,7 +10,7 @@ I leave in Lyon.
 
 Hello,  
 Je suis Mélanie.  
-Je vis à Lyon.
+Je vis à Lyon.  
 👩‍🏫 Je suis actuellement en formation de Développeuse Web et Web Mobile à M2i Formation.  
 📒 J'apprends actuellement :  
 Frontend  ➡️ HTML5, CSS3, WordPress, Javascript, Html5 Up  
